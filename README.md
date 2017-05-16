@@ -1,4 +1,1 @@
 # README
-
-"Pizza is awesome"
-FISTO RIZA SATIANTO MACHO
