@@ -1,4 +1,4 @@
 # README
 
 "Pizza is awesome"
-Michael Jordan
+Barack Obama
